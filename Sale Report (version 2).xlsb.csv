@@ -1,0 +1,30 @@
+Row Labels,Sum of Stock,,
+KURTA,"114,333",,
+KURTA SET,"47,682",,
+SET,"24,643",,
+TOP,"16,608",,
+DRESS,"11,675",,
+BLOUSE,"7,924",,
+PANT,"3,436",,
+NIGHT WEAR,"3,288",,
+TUNIC,"2,967",,
+SAREE,"2,777",,
+KURTI,"1,605",,
+SHARARA,"1,190",,
+PALAZZO,963,,
+LEHENGA CHOLI,736,,
+AN : LEGGINGS,715,,
+SKIRT,673,,
+CROP TOP WITH PLAZZO,617,," Inventory Stock Analysis
+I analyzed a fashion retail dataset using Excel Pivot Tables to identify which product categories had the highest available stock.
+
+The Kurta category had the highest stock at 114,333 units, followed by Kurta Set with 47,882 units, and Top with 16,608 units.
+
+Categories like Jumpsuit, Cardigan, and Bottom had very low inventory, indicating either low demand or limited supply.
+
+I visualized the stock distribution using a PivotChart for easier comparison."
+CROP TOP,405,,
+CARDIGAN,58,,
+BOTTOM,41,,
+JUMPSUIT,33,,
+Grand Total,"242,369",,
